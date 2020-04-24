@@ -1,11 +1,11 @@
 import java.io.IOException;
 
 
-public class TsetClass {
+public class TestClass {
 	int numberOfNodes = 0 ;
 	
 	public static void main(String[] args) throws IOException {
-		TsetClass d = new TsetClass();
+		TestClass d = new TestClass();
 		d.start();
 	}
 
